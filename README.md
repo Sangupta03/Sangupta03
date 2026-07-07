@@ -61,11 +61,11 @@ My rule: **no project is finished until it's deployed and someone else can click
 
 ---
 
-### 🏅 Bragging rights (briefly)
-
-- 🥇 **NPTEL Cloud Computing, IIT Kharagpur** — Elite Top 1%, 93% among 29K+ candidates
+### 🎓 Certifications & recognition
+ 
+- 🎖️ **NPTEL Cloud Computing, IIT Kharagpur** — grateful to have finished in the Elite Top 1% (93%) among 29K+ learners
 - 📜 **Microsoft Certified: Azure Data Fundamentals (DP-900)**
-- 🤖 ML certifications from **Google for Developers (Smartbridge)** & **Microsoft (Coursera)**
+- 🤖 Machine Learning certifications from **Google for Developers (Smartbridge)** and **Microsoft (Coursera)** — always learning, one course at a time
 
 ---
 
