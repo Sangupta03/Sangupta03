@@ -77,7 +77,7 @@ My rule: **no project is finished until it's deployed and someone else can click
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sangupta03&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=Sangupta03&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
