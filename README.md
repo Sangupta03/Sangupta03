@@ -21,8 +21,6 @@ Every project I build starts with the same question: **"why is a human still doi
 
 I'm a B.Tech CSE (AI & ML) student at **VIT Bhopal** *(CGPA 9.06)*. This summer I interned at the **State Bank of India** (May–June 2026), building an ML-powered credit-risk platform — XGBoost scoring, microservices, and Gemini-generated credit memos.
 
-My rule: **no project is finished until it's deployed and someone else can click a link and use it** — all three of my flagship AI projects are live right now.
-
 ---
 
 ### 🚀 What I've built — all live, click and try
