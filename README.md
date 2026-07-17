@@ -19,11 +19,11 @@ Every project I build starts with the same question: **"why is a human still doi
 - Debugging my own multi-agent app, where **five agents log at once** and the real error hides in the noise → I built **ML that clusters the chaos and tells you what broke, in plain English** 📜
 - Drowning in wall-of-text system design articles → I built **an AI tutor that draws the architecture diagram for you** 🏗️
 
-I'm a B.Tech CSE (AI & ML) student at **VIT Bhopal** *(CGPA 9.06)*. This summer I interned at the **State Bank of India** (May–June 2026), building an ML-powered credit-risk platform — XGBoost scoring, microservices, and Gemini-generated credit memos.
+I'm a B.Tech CSE (AI & ML) student at **VIT Bhopal**. This summer I interned at the **State Bank of India** (May–June 2026), building an ML-powered credit-risk platform — XGBoost scoring, microservices, and Gemini-generated credit memos.
 
 ---
 
-### 🚀 What I've built — all live, click and try
+### 🚀 What I've built
 
 | Project | The one-liner | Under the hood |
 |---|---|---|
@@ -59,7 +59,7 @@ I'm a B.Tech CSE (AI & ML) student at **VIT Bhopal** *(CGPA 9.06)*. This summer 
 
 ---
 
-### 🎓 Certifications & recognition
+### 🎓 Certifications
  
 - 🎖️ **NPTEL Cloud Computing, IIT Kharagpur** — grateful to have finished in the Elite Top 1% (93%) among 29K+ learners
 - 📜 **Microsoft Certified: Azure Data Fundamentals (DP-900)**
@@ -79,10 +79,7 @@ I'm a B.Tech CSE (AI & ML) student at **VIT Bhopal** *(CGPA 9.06)*. This summer 
 
 ### 🌱 Right now
 
-- 🏦 Just wrapped my **SBI internship** — shipped an ML credit-risk platform (XGBoost, microservices, AI-generated credit memos)
+- 🏦 Just wrapped my **SBI internship** where I built and prototyped an ML credit-risk platform (XGBoost, microservices, AI-generated credit memos)
 - 📚 Going deeper into **agentic AI patterns** and **system design**
 - 💬 Happy to talk about **multi-agent systems, RAG, or why your logs deserve better** — my inbox is open!
 
-<p align="center">
-  <i>"Automate the boring. Ship the rest."</i>
-</p>
